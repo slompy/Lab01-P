@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Visitka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ae8d9f4589ba3a898091bab99b52f77e0462e94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71ee670db4b94d7ffcbcf1c768e00ffc47eb5ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Visitka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Visitka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

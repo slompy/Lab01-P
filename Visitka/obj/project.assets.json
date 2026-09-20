@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Visitka\\Visitka.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Lab01-P\\Visitka\\Visitka.csproj",
       "projectName": "Visitka",
-      "projectPath": "C:\\Users\\Admin\\Documents\\Visitka\\Visitka.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\Lab01-P\\Visitka\\Visitka.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\Visitka\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\Lab01-P\\Visitka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
