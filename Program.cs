@@ -78,3 +78,12 @@
 // Console.WriteLine($"Учебное заведение: {CollegeName}");
 // Console.WriteLine($"Цена без НДС: {productPrice}, c НДС ({VatRate:P0}):{priceWithVat}");
 
+// Задание 1.
+int scholarship = 1200;
+int monthlyExpenses = 4000;
+const int MonthsInSemester = 4;
+
+int monthResult = scholarship - monthlyExpenses;
+Console.WriteLine($"К концу месяца останется: {monthResult}");
+int semestrMonthsResult = monthResult * MonthsInSemester;
+Console.WriteLine($"К концу семестра останется: {semestrMonthsResult}");
