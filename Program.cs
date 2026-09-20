@@ -88,3 +88,12 @@
 // int semestrMonthsResult = monthResult * MonthsInSemester;
 // Console.WriteLine($"К концу семестра останется: {semestrMonthsResult}");
 
+// Задание 3.
+int totalMinutes = 300;
+int minutesPerLesson = 45;
+
+int lessonsCount = totalMinutes / minutesPerLesson;
+
+int andMinutes =  totalMinutes % minutesPerLesson;
+
+Console.WriteLine($"{totalMinutes} минут = {lessonsCount} полных занятий + {andMinutes} минут.");
