@@ -56,24 +56,25 @@
 //  Console.WriteLine($"Итого с процентами: {totalWithInterest} руб."); // Вывод с процентами для пользователя
 //  Console.WriteLine($"Платёж в месяц: {monthlyPayment} руб."); // Вывод платежа в месяц для пользователя
 
-Console.WriteLine("Внимание: деление int");
+// Console.WriteLine("Внимание: деление int");
 
-int totalStudents = 25;
-int groupsCount = 4;
+// int totalStudents = 25;
+// int groupsCount = 4;
 
-int studentsPerGroupWrong = totalStudents / groupsCount;
-double studentsPerGroupCorrect = (double)totalStudents / groupsCount;
+// int studentsPerGroupWrong = totalStudents / groupsCount;
+// double studentsPerGroupCorrect = (double)totalStudents / groupsCount;
 
-Console.WriteLine($"25 / 4 как int: {studentsPerGroupWrong}");
-Console.WriteLine($"25 / 4 как double: {studentsPerGroupCorrect}");
+// Console.WriteLine($"25 / 4 как int: {studentsPerGroupWrong}");
+// Console.WriteLine($"25 / 4 как double: {studentsPerGroupCorrect}");
 
-Console.WriteLine("Константы");
+// Console.WriteLine("Константы");
 
-const double VatRate = 0.2;
-const string CollegeName = "ВФ ВолГУ";
+// const double VatRate = 0.2;
+// const string CollegeName = "ВФ ВолГУ";
 
-double productPrice = 1000;
-double priceWithVat = productPrice * (1 + VatRate);
+// double productPrice = 1000;
+// double priceWithVat = productPrice * (1 + VatRate);
 
-Console.WriteLine($"Учебное заведение: {CollegeName}");
-Console.WriteLine($"Цена без НДС: {productPrice}, c НДС ({VatRate:P0}):{priceWithVat}");
+// Console.WriteLine($"Учебное заведение: {CollegeName}");
+// Console.WriteLine($"Цена без НДС: {productPrice}, c НДС ({VatRate:P0}):{priceWithVat}");
+
